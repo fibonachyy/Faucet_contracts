@@ -1,0 +1,10 @@
+{
+  "name": "fucet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mahdi Ashouri",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3"
+  }
+}
